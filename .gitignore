@@ -1,0 +1,17 @@
+# Исключаем системные файлы
+.DS_Store
+Thumbs.db
+
+# Исключаем файлы IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Исключаем node_modules если они есть
+node_modules/
+
+# Исключаем временные файлы
+*.log
+*.tmp
+*.temp 
